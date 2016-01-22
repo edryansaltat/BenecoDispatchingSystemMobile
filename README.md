@@ -1,2 +1,2 @@
 # BenecoDispatchingSystemMobile
-A Dispatching System for Beneco Electric Cooperative (Mobile Version)
+A Dispatching System for Benguet Electric Cooperative (Mobile Version)
